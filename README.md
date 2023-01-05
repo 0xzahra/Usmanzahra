@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Usmanzahra
-- 👀 I’m interested in .. Hacking, Coding,IT.
-- 🌱 I’m currently learning . Hacking..
+- 👋 Hi, I’m @zahra usman
+- 👀 I’m interested in ..blockchain,nfts,Hacking,Coding,IT.
+- 🌱 I’m currently learning nfts..
 - 💞️ I’m looking to collaborate on ... Coding
 - 📫 How to reach me ...just dm
 
